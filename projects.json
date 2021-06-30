@@ -1,0 +1,6 @@
+{
+  "Checkmarks": "MyCheckmarksProjectURL",
+  "Prisma": "MyPrismaProjectURL",
+  "Blackduck": "MyBlackduckProjectURL",
+  "Sonarqube": "MySonarqubeProjectURL"
+}
